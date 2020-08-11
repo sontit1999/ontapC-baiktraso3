@@ -1,0 +1,11 @@
+G:\Project C#\ontapktrabaiso3\BULs\bin\Debug\BULs.dll
+G:\Project C#\ontapktrabaiso3\BULs\bin\Debug\BULs.pdb
+G:\Project C#\ontapktrabaiso3\BULs\bin\Debug\DALs.dll
+G:\Project C#\ontapktrabaiso3\BULs\bin\Debug\DTOs.dll
+G:\Project C#\ontapktrabaiso3\BULs\bin\Debug\DALs.pdb
+G:\Project C#\ontapktrabaiso3\BULs\bin\Debug\DTOs.pdb
+G:\Project C#\ontapktrabaiso3\BULs\obj\Debug\BULs.csprojAssemblyReference.cache
+G:\Project C#\ontapktrabaiso3\BULs\obj\Debug\BULs.csproj.CoreCompileInputs.cache
+G:\Project C#\ontapktrabaiso3\BULs\obj\Debug\BULs.csproj.CopyComplete
+G:\Project C#\ontapktrabaiso3\BULs\obj\Debug\BULs.dll
+G:\Project C#\ontapktrabaiso3\BULs\obj\Debug\BULs.pdb

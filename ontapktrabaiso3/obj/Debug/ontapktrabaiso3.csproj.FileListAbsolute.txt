@@ -1,0 +1,17 @@
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\ontapktrabaiso3.exe.config
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\ontapktrabaiso3.exe
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\ontapktrabaiso3.pdb
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\BULs.dll
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\DALs.dll
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\DTOs.dll
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\BULs.pdb
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\DALs.pdb
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\bin\Debug\DTOs.pdb
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.Form1.resources
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.Properties.Resources.resources
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.csproj.GenerateResource.cache
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.csproj.CoreCompileInputs.cache
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.csproj.CopyComplete
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.exe
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.pdb
+G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.csprojAssemblyReference.cache

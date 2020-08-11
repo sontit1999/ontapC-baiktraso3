@@ -1,0 +1,5 @@
+G:\Project C#\ontapktrabaiso3\DTOs\bin\Debug\DTOs.dll
+G:\Project C#\ontapktrabaiso3\DTOs\bin\Debug\DTOs.pdb
+G:\Project C#\ontapktrabaiso3\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+G:\Project C#\ontapktrabaiso3\DTOs\obj\Debug\DTOs.dll
+G:\Project C#\ontapktrabaiso3\DTOs\obj\Debug\DTOs.pdb

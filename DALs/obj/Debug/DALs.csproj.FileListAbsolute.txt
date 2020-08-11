@@ -1,0 +1,9 @@
+G:\Project C#\ontapktrabaiso3\DALs\bin\Debug\DALs.dll
+G:\Project C#\ontapktrabaiso3\DALs\bin\Debug\DALs.pdb
+G:\Project C#\ontapktrabaiso3\DALs\bin\Debug\DTOs.dll
+G:\Project C#\ontapktrabaiso3\DALs\bin\Debug\DTOs.pdb
+G:\Project C#\ontapktrabaiso3\DALs\obj\Debug\DALs.csprojAssemblyReference.cache
+G:\Project C#\ontapktrabaiso3\DALs\obj\Debug\DALs.csproj.CoreCompileInputs.cache
+G:\Project C#\ontapktrabaiso3\DALs\obj\Debug\DALs.csproj.CopyComplete
+G:\Project C#\ontapktrabaiso3\DALs\obj\Debug\DALs.dll
+G:\Project C#\ontapktrabaiso3\DALs\obj\Debug\DALs.pdb
