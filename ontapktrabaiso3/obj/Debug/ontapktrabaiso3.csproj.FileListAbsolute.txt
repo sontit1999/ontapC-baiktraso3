@@ -14,4 +14,3 @@ G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.csproj.C
 G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.csproj.CopyComplete
 G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.exe
 G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.pdb
-G:\Project C#\ontapktrabaiso3\ontapktrabaiso3\obj\Debug\ontapktrabaiso3.csprojAssemblyReference.cache

@@ -37,8 +37,8 @@ namespace ontapktrabaiso3
         {
             dgvSanpham.DataSource = bul.getSanPham();
             cbLoaisp.DataSource = bul.getLoaiSP();
-            cbLoaisp.DisplayMember = "tenloai";  
-
+            cbLoaisp.DisplayMember = "tenloai";
+            cbLoaisp.ValueMember = "maloai";
             
 
         }
@@ -50,7 +50,7 @@ namespace ontapktrabaiso3
             txtMasp.Text = dgvSanpham.Rows[row].Cells[0].Value.ToString();
             txtSoluong.Text = dgvSanpham.Rows[row].Cells[2].Value.ToString();
             txtDOngia.Text = dgvSanpham.Rows[row].Cells[3].Value.ToString();
-            
+            cbLoaisp.Items[cbLoaisp.SelectedIndex].ToString();
         }
 
         private void btnThem_Click(object sender, EventArgs e)
@@ -67,9 +67,11 @@ namespace ontapktrabaiso3
 
         private void btnsua_Click(object sender, EventArgs e)
         {
-            var selectedItem = (cbLoaisp.SelectedItem as DataRowView);
+           
+            //var selectedItem = (cbLoaisp.SelectedItem as DataRowView);
 
-            string maloai = selectedItem["maloai"].ToString();
+            //  string maloai = selectedItem["maloai"].ToString();
+            string maloai =  cbLoaisp.SelectedValue.ToString();
             MessageBox.Show("mã: " + maloai);
 
             bul.UpadateSanpham(new DTOs.SanPhamDTO(txtMasp.Text.ToString(), txtTensp.Text.ToString(), int.Parse(txtSoluong.Text), int.Parse(txtDOngia.Text), maloai));
